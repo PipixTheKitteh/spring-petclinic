@@ -26,6 +26,7 @@
     <jacoco.version>0.8.7</jacoco.version>
     <nohttp-checkstyle.version>0.0.10</nohttp-checkstyle.version>
     <spring-format.version>0.0.31</spring-format.version>
+    <h2.version>2.1.212</h2.version>
 
   </properties>
 
