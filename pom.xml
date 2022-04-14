@@ -28,6 +28,7 @@
     <spring-format.version>0.0.31</spring-format.version>
     <h2.version>2.1.212</h2.version>
 
+    <guava.version>31.1-jre</guava.version>
   </properties>
 
   <dependencies>
